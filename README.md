@@ -2,6 +2,4 @@
 it lab
 hello world
 pu
-
-presidency university
-bngr
+yogg
