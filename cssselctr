@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+p{
+text-align:center;
+color:red;
+}
+p.large{
+font-size:300%;
+}
+</style>
+</head>
+<body>
+<p class="center">this heading will not be affected</p>
+<p class="large">this heading will be red and center</p>
+<p class="center large">this heading will not be affected</p>
+</body>
+</html>
